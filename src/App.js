@@ -1,5 +1,7 @@
 import React from "react";
+
 import './App.css';
+import './styles/global.css'
 
 import Steps from "./Components/Steps";
 
